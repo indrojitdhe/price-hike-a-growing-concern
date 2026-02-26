@@ -83,7 +83,7 @@ This presentation was prepared to improve:
 ## 📂 Files Included
 
 - `price_hike_presentation.pptx` – Final PowerPoint presentation
-- - `price_hike_presentation.pdf` – Final Pdf File  
+- `price_hike_presentation.pdf` – Final Pdf File  
 - `README.md` – Project documentation  
 - `LICENSE` – Project license  
 
