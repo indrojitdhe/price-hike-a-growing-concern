@@ -1,6 +1,6 @@
 # 🌍 Price Hike: A Growing Concern
 
-This repository contains my spoken presentation project for the course **Online Spoken English And Phonetics** (Batch: OFS-26-02) at MENTORS', instructed by **Maisha Suha**.
+This repository contains my spoken presentation project for the course **Online Spoken English And Phonetics** (Batch: OFS-26-02) at MENTORS', Which I did with my specific group, and instructed by **Maisha Suha**.
 
 The presentation explores the causes, effects, and future outlook of global price hikes, with a special focus on Bangladesh.
 
@@ -13,6 +13,17 @@ The presentation explores the causes, effects, and future outlook of global pric
 - **Batch:** OFS-26-02
 - **Institute:** MENTORS' 
 - **Presentation Title:** Price Hike: A Growing Concern  
+
+---
+
+## 👤 Group Members
+
+I have a great & dedicated team, and we are five members. The members are:
+- MAHBUBA RAHMAN
+- DIBA AHMED
+- ABDUL HALIM
+- INDROJIT DHE SHAON
+- SABRINA RAHMAN LAMIA
 
 ---
 
